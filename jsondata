@@ -1,13 +1,13 @@
 {
 
 	"ads": {
-		"Bannerapplovine": "",
-		"Interapplovine": "",
-		"max_native_normal": "",
-		"max_native_small": "",
+		"Bannerapplovine": "2a1aa2231f5c4ef0",
+		"Interapplovine": "fb8a43d11f6c639a",
+		"max_native_normal": "baf6726976087e8e",
+		"max_native_small": "5bd295c6c463c367",
 		"rewordapplovine": "",
 
-		"GetApp_Url": "",
+		"GetApp_Url": "https://www.google.com/",
 		"Privicyurl": "https://texrabxay.blogspot.com/p/privacy-policy-texrabxay-apps.html"
 
 	}
